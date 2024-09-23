@@ -1,0 +1,17 @@
+.fifth{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 40px;
+    gap: 10px;
+
+}
+.fifth{
+    background-image: url(fifth-image.webp);
+    background-color: #cccccc; 
+    height: 600px; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+}

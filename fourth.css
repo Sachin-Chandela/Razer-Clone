@@ -1,0 +1,17 @@
+.fourth{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 40px;
+    gap: 10px;
+
+}
+.fourth{
+    background-image: url(fourth-image.webp);
+background-color: #cccccc; 
+height: 700px; 
+background-position: center; 
+background-repeat: no-repeat; 
+background-size: cover; 
+}

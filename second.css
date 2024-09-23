@@ -1,0 +1,13 @@
+.second{
+    box-sizing: border-box;
+    
+    background-color: #555;
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding: 10px;
+}
+.second-anchor{
+    text-decoration: none;
+    color: white;
+}

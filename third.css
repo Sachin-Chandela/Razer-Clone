@@ -1,0 +1,43 @@
+.third{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    padding-top: 40px;
+    
+}
+.third{
+    background-image: url(third-image.webp);
+    background-color: #cccccc; 
+    height: 700px; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+}
+.third-third{
+    display: flex;
+    gap: 15px;
+}
+.third-anchor{
+    text-decoration: none;
+    color: white;
+    font-size: 23px;
+}
+.third-first{
+    font-size: 50px;
+}
+.third-second{
+    font-size: 30px;
+}
+
+
+@media(max-width: 941px){
+    .third-first{
+        font-size: 30px;
+        text-align: center;
+    }
+    .third-second{
+        font-size: 15px;
+    }
+}
